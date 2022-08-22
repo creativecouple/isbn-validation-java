@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"de.creativecouple.validation.isbn","l":"ISBNValidatorBuilder.HyphenationOption"},{"p":"de.creativecouple.validation.isbn","l":"ISBN"},{"p":"de.creativecouple.validation.isbn","l":"ISBNValidator"},{"p":"de.creativecouple.validation.isbn","l":"ISBNValidatorBuilder"}]
